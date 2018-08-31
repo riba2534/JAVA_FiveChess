@@ -4,6 +4,10 @@
 
 - 用了五子棋的局势判分方法来写的AI
 
+# 使用方法
+
+1. 去`release`中下载`AIFiveChess.jar`
+2. 使用`java -jar AIFiveChess.jar`执行
 
 效果图如下:
 
